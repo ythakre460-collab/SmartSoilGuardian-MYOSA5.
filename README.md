@@ -91,3 +91,38 @@ Upload code using USB cable
 ## License
 
 Open-source educational project.
+
+## Demo / Examples
+
+### Images
+
+<p align="center">
+<img src="smartsoilguardian-cover.jpg" width="800"><br/>
+<i>Complete SmartSoil Guardian Prototype</i>
+</p>
+
+<p align="center">
+<img src="prototype-setup.jpg" width="800"><br/>
+<i>Complete hardware setup with ESP32 and sensors</i>
+</p>
+
+<p align="center">
+<img src="soil-sensor.jpg" width="800"><br/>
+<i>Soil moisture sensing unit</i>
+</p>
+
+<p align="center">
+<img src="LED-serial-monitor.jpg" width="800"><br/>
+<i>Real-time sensor readings displayed on serial monitor</i>
+</p>
+
+<p align="center">
+<img src="iot-monitoring.jpg" width="800"><br/>
+<i>IoT monitoring interface showing live system data</i>
+</p>
+
+### Videos
+
+<video controls width="100%">
+<source src="smartsoilguardian-final-demo.mp4" type="video/mp4">
+</video>
