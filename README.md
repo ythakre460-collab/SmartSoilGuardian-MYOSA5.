@@ -121,8 +121,7 @@ Open-source educational project.
 <i>IoT monitoring interface showing live system data</i>
 </p>
 
-### Videos
 
-<video controls width="100%">
-<source src="smartsoilguardian-final-demo.mp4" type="video/mp4">
-</video>
+
+## 🎥 Demo Video
+[Watch Demo Video](smartsoilguardian-final-demo.mp4)
