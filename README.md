@@ -97,31 +97,39 @@ Open-source educational project.
 ### Images
 
 <p align="center">
-<img src="smartsoilguardian-cover.jpg" width="800"><br/>
-<i>Complete SmartSoil Guardian Prototype</i>
+  <img src="./smartsoilguardian-cover.jpg" width="800">
+  <br/>
+  <i>Complete SmartSoil Guardian Prototype</i>
 </p>
 
 <p align="center">
-<img src="prototype-setup.jpg" width="800"><br/>
-<i>Complete hardware setup with ESP32 and sensors</i>
+  <img src="./prototype-setup.jpg" width="800">
+  <br/>
+  <i>Prototype Setup</i>
 </p>
 
 <p align="center">
-<img src="soil-sensor.jpg" width="800"><br/>
-<i>Soil moisture sensing unit</i>
+  <img src="./soil-sensor.jpg" width="800">
+  <br/>
+  <i>Soil Moisture Sensor</i>
 </p>
 
 <p align="center">
-<img src="LED-serial-monitor.jpg" width="800"><br/>
-<i>Real-time sensor readings displayed on serial monitor</i>
+  <img src="./LED-serial-monitor.jpg" width="800">
+  <br/>
+  <i>Live Serial Monitor Output</i>
 </p>
 
 <p align="center">
-<img src="iot-monitoring.jpg" width="800"><br/>
-<i>IoT monitoring interface showing live system data</i>
+  <img src="./iot-monitoring.jpg" width="800">
+  <br/>
+  <i>IoT Monitoring Dashboard</i>
 </p>
 
+### Video
+
+<video width="100%" controls>
+  <source src="./smartsoilguardian-final-demo.mp4" type="video/mp4">
+</video>
 
 
-## 🎥 Demo Video
-[Watch Demo Video](smartsoilguardian-final-demo.mp4)
